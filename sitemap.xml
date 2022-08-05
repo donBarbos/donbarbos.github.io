@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://localhost:40405/posts/sample/</loc>
+    <loc>https://dontkillkenny.com/posts/sample/</loc>
     <lastmod>2022-06-17T16:52:30+03:00</lastmod>
   </url><url>
-    <loc>https://localhost:40405/</loc>
+    <loc>https://dontkillkenny.com/</loc>
     <lastmod>2022-06-17T16:52:30+03:00</lastmod>
   </url><url>
-    <loc>https://localhost:40405/posts/</loc>
+    <loc>https://dontkillkenny.com/posts/</loc>
     <lastmod>2022-06-17T16:52:30+03:00</lastmod>
   </url><url>
-    <loc>https://localhost:40405/resume/</loc>
+    <loc>https://dontkillkenny.com/resume/</loc>
     <lastmod>2022-06-17T16:52:30+03:00</lastmod>
   </url><url>
-    <loc>https://localhost:40405/projects/</loc>
+    <loc>https://dontkillkenny.com/projects/</loc>
     <lastmod>2022-06-17T13:39:17+03:00</lastmod>
   </url><url>
-    <loc>https://localhost:40405/categories/</loc>
+    <loc>https://dontkillkenny.com/categories/</loc>
   </url><url>
-    <loc>https://localhost:40405/tags/</loc>
+    <loc>https://dontkillkenny.com/tags/</loc>
   </url>
 </urlset>
