@@ -2,26 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>donBarbos</title>
-    <link>https://dontkillkenny.com/</link>
+    <link>https://localhost:40405/</link>
     <description>Recent content on donBarbos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://dontkillkenny.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Jun 2022 16:52:30 +0300</lastBuildDate><atom:link href="https://localhost:40405/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resume</title>
-      <link>https://dontkillkenny.com/resume/</link>
+      <title>finance</title>
+      <link>https://localhost:40405/posts/sample/</link>
       <pubDate>Fri, 17 Jun 2022 16:52:30 +0300</pubDate>
       
-      <guid>https://dontkillkenny.com/resume/</guid>
+      <guid>https://localhost:40405/posts/sample/</guid>
+      <description>some text about finance</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://localhost:40405/resume/</link>
+      <pubDate>Fri, 17 Jun 2022 16:52:30 +0300</pubDate>
+      
+      <guid>https://localhost:40405/resume/</guid>
       <description>In future u can see here my CV.pdf file</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://dontkillkenny.com/projects/</link>
+      <link>https://localhost:40405/projects/</link>
       <pubDate>Fri, 17 Jun 2022 13:39:17 +0300</pubDate>
       
-      <guid>https://dontkillkenny.com/projects/</guid>
-      <description>Some of my projects  WalletStats API (not working, in process) Telegram bot template  </description>
+      <guid>https://localhost:40405/projects/</guid>
+      <description>Some of my projects WalletStats API (not working, in process) MD-share (not working, in process) </description>
     </item>
     
   </channel>
