@@ -2,45 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>donBarbos</title>
-    <link>https://www.dontkillkenny.com/</link>
+    <link>https://www.dontkillkenny.com:1313/</link>
     <description>Recent content on donBarbos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 17 Jun 2022 16:52:30 +0300</lastBuildDate><atom:link href="https://www.dontkillkenny.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.dontkillkenny.com:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>finance</title>
-      <link>https://www.dontkillkenny.com/posts/sample/</link>
-      <pubDate>Fri, 17 Jun 2022 16:52:30 +0300</pubDate>
-      
-      <guid>https://www.dontkillkenny.com/posts/sample/</guid>
-      <description>some text about finance</description>
-    </item>
-    
-    <item>
-      <title>Donate</title>
-      <link>https://www.dontkillkenny.com/donate/</link>
+      <title>Address</title>
+      <link>https://www.dontkillkenny.com:1313/address/</link>
       <pubDate>Sun, 28 Aug 2022 09:26:04 +0300</pubDate>
       
-      <guid>https://www.dontkillkenny.com/donate/</guid>
-      <description>Donate to me by Ethereum (ERC20, BEP20) 0xa189f01676F667CE9A397839Ce4b624AA8CFC236</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://www.dontkillkenny.com/resume/</link>
-      <pubDate>Fri, 17 Jun 2022 16:52:30 +0300</pubDate>
-      
-      <guid>https://www.dontkillkenny.com/resume/</guid>
-      <description>In future u can see here my CV.pdf file</description>
+      <guid>https://www.dontkillkenny.com:1313/address/</guid>
+      <description>Donate to me by Ethereum (ERC20, BEP20): 0xa189f01676F667CE9A397839Ce4b624AA8CFC236 I&amp;rsquo;m not sure why I left this infomation here</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://www.dontkillkenny.com/projects/</link>
+      <link>https://www.dontkillkenny.com:1313/projects/</link>
       <pubDate>Fri, 17 Jun 2022 13:39:17 +0300</pubDate>
       
-      <guid>https://www.dontkillkenny.com/projects/</guid>
-      <description>Some of my projects WalletStats API (not working, in process) MD-share (not working, in process) </description>
+      <guid>https://www.dontkillkenny.com:1313/projects/</guid>
+      <description>A few of my “popular” works. The unpopular ones can be found on my github.
+🤖 Telegram Bot Template Template for telegram bot using postgres, redis, docker, python asyncio.
+source code
+📝 .mdShare Best way to share your markdown files.
+source code | demo
+🦾 telephoto-autoupdater Application for auto update telegram profile photo.
+source code
+WalletStats Aggregator of information about the address of the wallet.
+source code (does not work completely)</description>
     </item>
     
   </channel>

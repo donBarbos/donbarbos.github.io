@@ -2,26 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.dontkillkenny.com/posts/sample/</loc>
-    <lastmod>2022-06-17T16:52:30+03:00</lastmod>
-  </url><url>
-    <loc>https://www.dontkillkenny.com/donate/</loc>
+    <loc>https://www.dontkillkenny.com:1313/address/</loc>
     <lastmod>2022-08-28T09:26:04+03:00</lastmod>
   </url><url>
-    <loc>https://www.dontkillkenny.com/</loc>
-    <lastmod>2022-06-17T16:52:30+03:00</lastmod>
-  </url><url>
-    <loc>https://www.dontkillkenny.com/posts/</loc>
-    <lastmod>2022-06-17T16:52:30+03:00</lastmod>
-  </url><url>
-    <loc>https://www.dontkillkenny.com/resume/</loc>
-    <lastmod>2022-06-17T16:52:30+03:00</lastmod>
-  </url><url>
-    <loc>https://www.dontkillkenny.com/projects/</loc>
+    <loc>https://www.dontkillkenny.com:1313/projects/</loc>
     <lastmod>2022-06-17T13:39:17+03:00</lastmod>
   </url><url>
-    <loc>https://www.dontkillkenny.com/categories/</loc>
+    <loc>https://www.dontkillkenny.com:1313/categories/</loc>
   </url><url>
-    <loc>https://www.dontkillkenny.com/tags/</loc>
+    <loc>https://www.dontkillkenny.com:1313/</loc>
+  </url><url>
+    <loc>https://www.dontkillkenny.com:1313/tags/</loc>
   </url>
 </urlset>
